@@ -1,5 +1,5 @@
 {
-  "name": "electron-devtools-installer",
+  "name": "iyobo-electron-devtools-installer",
   "version": "2.2.4",
   "description": "An easy way to install Dev Tools extensions into Electron applications",
   "main": "dist/index.js",
@@ -18,9 +18,9 @@
     "tools"
   ],
   "author": {
-    "name": "Samuel Attard",
-    "email": "samuel.r.attard@gmail.com",
-    "url": "www.samuelattard.com"
+    "name": "Iyobo Eki",
+    "email": "phil.eki@gmail.com",
+    "url": "www.iyobo.co"
   },
   "bugs": {
     "url": "https://github.com/GPMDP/electron-devtools-installer/issues"
